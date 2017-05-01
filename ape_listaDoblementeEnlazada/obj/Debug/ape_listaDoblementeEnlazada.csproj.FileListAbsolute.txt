@@ -1,0 +1,9 @@
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_listaDoblementeEnlazada\ape_listaDoblementeEnlazada\bin\Debug\ape_listaDoblementeEnlazada.exe.config
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_listaDoblementeEnlazada\ape_listaDoblementeEnlazada\bin\Debug\ape_listaDoblementeEnlazada.exe
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_listaDoblementeEnlazada\ape_listaDoblementeEnlazada\bin\Debug\ape_listaDoblementeEnlazada.pdb
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_listaDoblementeEnlazada\ape_listaDoblementeEnlazada\obj\Debug\ape_listaDoblementeEnlazada.csprojResolveAssemblyReference.cache
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_listaDoblementeEnlazada\ape_listaDoblementeEnlazada\obj\Debug\ape_listaDoblementeEnlazada.frmPrincipal.resources
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_listaDoblementeEnlazada\ape_listaDoblementeEnlazada\obj\Debug\ape_listaDoblementeEnlazada.Properties.Resources.resources
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_listaDoblementeEnlazada\ape_listaDoblementeEnlazada\obj\Debug\ape_listaDoblementeEnlazada.csproj.GenerateResource.Cache
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_listaDoblementeEnlazada\ape_listaDoblementeEnlazada\obj\Debug\ape_listaDoblementeEnlazada.exe
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_listaDoblementeEnlazada\ape_listaDoblementeEnlazada\obj\Debug\ape_listaDoblementeEnlazada.pdb
