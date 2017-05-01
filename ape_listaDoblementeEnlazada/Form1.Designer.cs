@@ -115,6 +115,7 @@
             // 
             // btnAgregar
             // 
+            this.btnAgregar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnAgregar.Location = new System.Drawing.Point(67, 206);
             this.btnAgregar.Name = "btnAgregar";
             this.btnAgregar.Size = new System.Drawing.Size(86, 34);
@@ -125,9 +126,10 @@
             // 
             // btnAgregarEnInicio
             // 
+            this.btnAgregarEnInicio.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnAgregarEnInicio.Location = new System.Drawing.Point(172, 206);
             this.btnAgregarEnInicio.Name = "btnAgregarEnInicio";
-            this.btnAgregarEnInicio.Size = new System.Drawing.Size(86, 34);
+            this.btnAgregarEnInicio.Size = new System.Drawing.Size(86, 44);
             this.btnAgregarEnInicio.TabIndex = 9;
             this.btnAgregarEnInicio.Text = "Agregar en inicio";
             this.btnAgregarEnInicio.UseVisualStyleBackColor = true;
@@ -135,6 +137,7 @@
             // 
             // btnBuscar
             // 
+            this.btnBuscar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnBuscar.Location = new System.Drawing.Point(277, 206);
             this.btnBuscar.Name = "btnBuscar";
             this.btnBuscar.Size = new System.Drawing.Size(86, 34);
@@ -145,6 +148,7 @@
             // 
             // btnInsertar
             // 
+            this.btnInsertar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnInsertar.Location = new System.Drawing.Point(67, 256);
             this.btnInsertar.Name = "btnInsertar";
             this.btnInsertar.Size = new System.Drawing.Size(86, 34);
@@ -155,6 +159,7 @@
             // 
             // btnEliminar
             // 
+            this.btnEliminar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnEliminar.Location = new System.Drawing.Point(67, 306);
             this.btnEliminar.Name = "btnEliminar";
             this.btnEliminar.Size = new System.Drawing.Size(86, 34);
@@ -165,9 +170,10 @@
             // 
             // btnEliminarPrimero
             // 
-            this.btnEliminarPrimero.Location = new System.Drawing.Point(172, 306);
+            this.btnEliminarPrimero.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnEliminarPrimero.Location = new System.Drawing.Point(172, 296);
             this.btnEliminarPrimero.Name = "btnEliminarPrimero";
-            this.btnEliminarPrimero.Size = new System.Drawing.Size(86, 34);
+            this.btnEliminarPrimero.Size = new System.Drawing.Size(86, 44);
             this.btnEliminarPrimero.TabIndex = 13;
             this.btnEliminarPrimero.Text = "Eliminar primero";
             this.btnEliminarPrimero.UseVisualStyleBackColor = true;
@@ -175,6 +181,7 @@
             // 
             // btnEliminarUltimo
             // 
+            this.btnEliminarUltimo.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnEliminarUltimo.Location = new System.Drawing.Point(277, 306);
             this.btnEliminarUltimo.Name = "btnEliminarUltimo";
             this.btnEliminarUltimo.Size = new System.Drawing.Size(86, 34);
@@ -185,6 +192,7 @@
             // 
             // btnReporte
             // 
+            this.btnReporte.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnReporte.Location = new System.Drawing.Point(432, 206);
             this.btnReporte.Name = "btnReporte";
             this.btnReporte.Size = new System.Drawing.Size(73, 34);
@@ -195,9 +203,10 @@
             // 
             // btnReporteInverso
             // 
+            this.btnReporteInverso.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnReporteInverso.Location = new System.Drawing.Point(432, 256);
             this.btnReporteInverso.Name = "btnReporteInverso";
-            this.btnReporteInverso.Size = new System.Drawing.Size(73, 34);
+            this.btnReporteInverso.Size = new System.Drawing.Size(73, 44);
             this.btnReporteInverso.TabIndex = 16;
             this.btnReporteInverso.Text = "Reporte inverso";
             this.btnReporteInverso.UseVisualStyleBackColor = true;
@@ -223,6 +232,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(568, 389);
             this.Controls.Add(this.txtInsertar);
             this.Controls.Add(this.txtReporte);

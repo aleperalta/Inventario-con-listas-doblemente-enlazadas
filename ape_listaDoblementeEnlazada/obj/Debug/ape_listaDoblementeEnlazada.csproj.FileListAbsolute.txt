@@ -7,3 +7,6 @@ c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_listaDoblementeEnla
 c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_listaDoblementeEnlazada\ape_listaDoblementeEnlazada\obj\Debug\ape_listaDoblementeEnlazada.csproj.GenerateResource.Cache
 c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_listaDoblementeEnlazada\ape_listaDoblementeEnlazada\obj\Debug\ape_listaDoblementeEnlazada.exe
 c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_listaDoblementeEnlazada\ape_listaDoblementeEnlazada\obj\Debug\ape_listaDoblementeEnlazada.pdb
+C:\Users\ale_p_000\Documents\GitHub\Inventario-con-listas-doblemente-enlazadas\ape_listaDoblementeEnlazada\bin\Debug\ape_listaDoblementeEnlazada.exe.config
+C:\Users\ale_p_000\Documents\GitHub\Inventario-con-listas-doblemente-enlazadas\ape_listaDoblementeEnlazada\obj\Debug\ape_listaDoblementeEnlazada.exe
+C:\Users\ale_p_000\Documents\GitHub\Inventario-con-listas-doblemente-enlazadas\ape_listaDoblementeEnlazada\obj\Debug\ape_listaDoblementeEnlazada.pdb
