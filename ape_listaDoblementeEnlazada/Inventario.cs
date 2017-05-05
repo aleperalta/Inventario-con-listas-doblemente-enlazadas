@@ -90,7 +90,11 @@ namespace ape_listaDoblementeEnlazada
                 else
                 {
                     encontrado.anterior.siguiente = encontrado.siguiente;
-                    encontrado.siguiente.anterior = encontrado.anterior;
+
+                    if (encontrado.siguiente != null)
+                        encontrado.siguiente.anterior = encontrado.anterior;
+                    else
+                        ultimo = encontrado.anterior;
                 }
 
                 return true;

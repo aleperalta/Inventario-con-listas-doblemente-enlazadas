@@ -10,3 +10,9 @@ c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_listaDoblementeEnla
 C:\Users\ale_p_000\Documents\GitHub\Inventario-con-listas-doblemente-enlazadas\ape_listaDoblementeEnlazada\bin\Debug\ape_listaDoblementeEnlazada.exe.config
 C:\Users\ale_p_000\Documents\GitHub\Inventario-con-listas-doblemente-enlazadas\ape_listaDoblementeEnlazada\obj\Debug\ape_listaDoblementeEnlazada.exe
 C:\Users\ale_p_000\Documents\GitHub\Inventario-con-listas-doblemente-enlazadas\ape_listaDoblementeEnlazada\obj\Debug\ape_listaDoblementeEnlazada.pdb
+C:\Users\ale_p_000\Documents\GitHub\Inventario-con-listas-doblemente-enlazadas\ape_listaDoblementeEnlazada\bin\Debug\ape_listaDoblementeEnlazada.exe
+C:\Users\ale_p_000\Documents\GitHub\Inventario-con-listas-doblemente-enlazadas\ape_listaDoblementeEnlazada\bin\Debug\ape_listaDoblementeEnlazada.pdb
+C:\Users\ale_p_000\Documents\GitHub\Inventario-con-listas-doblemente-enlazadas\ape_listaDoblementeEnlazada\obj\Debug\ape_listaDoblementeEnlazada.csprojResolveAssemblyReference.cache
+C:\Users\ale_p_000\Documents\GitHub\Inventario-con-listas-doblemente-enlazadas\ape_listaDoblementeEnlazada\obj\Debug\ape_listaDoblementeEnlazada.frmPrincipal.resources
+C:\Users\ale_p_000\Documents\GitHub\Inventario-con-listas-doblemente-enlazadas\ape_listaDoblementeEnlazada\obj\Debug\ape_listaDoblementeEnlazada.Properties.Resources.resources
+C:\Users\ale_p_000\Documents\GitHub\Inventario-con-listas-doblemente-enlazadas\ape_listaDoblementeEnlazada\obj\Debug\ape_listaDoblementeEnlazada.csproj.GenerateResource.Cache
